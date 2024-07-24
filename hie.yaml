@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "haskell-funcional-gnomos:lib"
+
+    - path: "./test"
+      component: "haskell-funcional-gnomos:test:haskell-funcional-gnomos-test"
